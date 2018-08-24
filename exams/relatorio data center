@@ -1,0 +1,25 @@
+franklin tavares da cruz / 20161014040009/ sistemas operacionais
+Relatório de visita ao Data center IFRN
+O que é um Data center?
+Data Center, ou Centro de Processamento de Dados, é um ambiente projetado para concentrar servidores, equipamentos de processamento e armazenamento de dados, e sistemas de ativos de rede, como switches, roteadores, e outros. Por isso, é considerado o sistema nervoso das empresas.   
+Com a finalidade de abrigar milhares de servidores e bancos de dados, e processar grandes quantidades de informação, os equipamentos geralmente são montados em racks ou armários metálicos. Possuem proteção contra incêndios, além de sistemas de resfriamento dos racks, para manter uma temperatura estável. Na maioria dos casos, ficam localizados em grandes galpões com acesso restrito de funcionários, por questões de segurança.
+
+
+
+
+
+
+
+
+
+
+Data center do IFRN
+O Data center do IFRN não difere dessas características citada acima.
+Ele possui servidores, equipamentos de processadores onde possuem máquinas virtuais em cada um deles e armazenamento de dados. O Datacenter do IFRN é o central que é interligado por meio de outros IFRNs
+No campus Natal Central fica um localizado na reitoria e outro no próprio Campus. Em uma pequena sala está localizado esse Data center, que é uma sala a prova de incêndio(o fogo não se espalha para fora e nem para dentro da sala). Para entrar na sala, apenas servidores que trabalham lá tem o acesso.
+Ao entrar na sala vemos um Data center como o da figura da página acima. Com diversos processadores e cada um com seus funcionamentos.
+
+
+A sala do Data center tem o piso elevado(o chamadao piso falso) onde está abaixo todo cabeamento de segurança, câmera que pode se conectar com outro prédio de fora.
+
+Piso elevado, cabeamento estruturado.
